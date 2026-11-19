@@ -88,5 +88,5 @@ Total Experiments: 15 | Total Questions: 49
 
 ## Submission Details
 
-- **GitHub Repository URL:** https://github.com/abhinavsrivastava98890/Introduction-to-Programming-Using-Java-Lab-BCS351-
-- **Java Lab File Google Drive URL:** https://drive.google.com/file/d/14uWA5ijn5dqjxL4fhpUUeVmDn8d8ebwT/view?usp=drive_link
+- **GitHub Repository URL:** https://github.com/shekharsingh852801/Introduction-to-Programming-Using-Java-Lab-BCS357--main
+- **Java Lab File Google Drive URL:** https://drive.google.com/file/d/17wB0NK1gbAjZcP6gHCFUszR8F8t4tHP7/view?usp=sharing
